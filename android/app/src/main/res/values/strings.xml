@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">nailProject</string>
+    <string name="kakao_app_key">2c26ef6b93b2e3f07f3a6ee258b4bd1b</string>
 </resources>
